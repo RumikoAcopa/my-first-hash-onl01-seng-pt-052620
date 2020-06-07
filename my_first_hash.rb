@@ -6,7 +6,7 @@ def shipping_manifest
   "oil paintings" => 3}
 
 
-  # use the literal 
+  # use the literal
 
 
   #constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
